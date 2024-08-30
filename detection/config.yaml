@@ -1,0 +1,7 @@
+path: 'path/to/your/dataset/directory' # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: valid/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: face
