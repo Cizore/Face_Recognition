@@ -1,3 +1,4 @@
+#generate face embeddings
 import os
 import cv2
 from facenet_pytorch import MTCNN, InceptionResnetV1
